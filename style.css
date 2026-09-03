@@ -7,7 +7,7 @@
 
 /* Main */
 
-/* Modifing every 'container' on project */
+/* Modifying every 'container' in the project */
 .container {
     display: flex;
     flex-direction: column;
